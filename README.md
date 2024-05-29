@@ -1,6 +1,12 @@
 # Introductory Computational Fluid Dynamics lecture notes 
 
-> Welcome to the practical CFD knowledge hub. The purpose of this webpage is create an easy to understand environment that will allow a gentle introduction into the world of CFD. This page and the resources within are managed by [Dr Momchil Terziev](https://momchil-terziev.github.io/).6
+> Welcome to the practical CFD knowledge hub. The purpose of this webpage is create an easy to understand environment that will allow a gentle introduction into the world of CFD. This page and the resources within are managed by [Dr Momchil Terziev](https://momchil-terziev.github.io/).7
+
+% \f is defined as #1f(#2) using the macro
+\f\relax{x} = \int_{-\infty}^\infty
+    \f\hat\xi\,e^{2 \pi i \xi x}
+    \,d\xi
+
 
 
 
