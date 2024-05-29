@@ -6,7 +6,22 @@
 \f\relax{x} = \int_{-\infty}^\infty
     \f\hat\xi\,e^{2 \pi i \xi x}
     \,d\xi
-    
+
+    tabs:start
+
+#### **English**
+
+Hello!
+
+#### **French**
+
+Bonjour!
+
+#### **Italian**
+
+Ciao!
+
+tabs:end
 
 ```html
 code block 1
@@ -37,21 +52,7 @@ To host this template on GitHub Pages do the following:
 
 How about editing the content of your new Docsify site on GitHub Pages? View the Markdown page you want to edit (for example, **README.md**) and tap the **Pencil Icon**, then save any changes by tapping the green **Commit changes...** button. In just a few moments the Docsify site will be automatically updated to reflect those changes.
 
-tabs:start
 
-#### **English**
-
-Hello!
-
-#### **French**
-
-Bonjour!
-
-#### **Italian**
-
-Ciao!
-
-tabs:end
 
 ### Viewing Locally 
 Run `npx serve .` (Node.js users) or `python -m http.server 8000` (Python users) in the repo folder to serve run locally.
