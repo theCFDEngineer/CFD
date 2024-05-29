@@ -63,7 +63,12 @@
       position: "top",
       color: "var(--theme-color,#42b983)",
      height: "3px",
-    }
+    },
+// latex
+     latex: {
+    inlineMath   : [['$', '$'], ['\\(', '\\)']], // default
+    displayMath  : [['$$', '$$']],               // default
+  }
         
     };
   </script>
@@ -82,16 +87,15 @@
 
 <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@latest"></script>
 <script src="https://cdn.jsdelivr.net/npm/docsify-progress@latest/dist/progress.min.js"></script>
-
-
-    <script src="//cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.js"></script>
-<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/katex@latest/dist/katex.min.css" />
-<script src="//cdn.jsdelivr.net/npm/marked@4"></script>
-
-<!-- CDN files for docsify-katex -->
-<script src="//cdn.jsdelivr.net/npm/docsify-katex@latest/dist/docsify-katex.js"></script>
-<!-- or <script src="//cdn.jsdelivr.net/gh/upupming/docsify-katex@latest/dist/docsify-katex.js"></script> -->
     
+<!-- latex -->
+    <!-- Docsify v4 -->
+<script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+<!-- LaTeX display engine -->
+<script src="//cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+<!--  docsify-latex plugin -->
+<script src="//cdn.jsdelivr.net/npm/docsify-latex@0"></script>
+    <!-- -->
     
 </body>
   <script 
