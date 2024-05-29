@@ -5,22 +5,6 @@
 
 
 
-
-
-
-
-tabs:start
-
-#### **English**
-Hello!
-#### **French**
-Bonjour!
-
-tabs:end
-
-#### 56
-
-
 You may use the menu on the left to jump to a section containing topics that interest you, but I recommend you work through the the material in the suggested sequence. The order of the material is designed to give you a high-level overview of CFD, beginning from conservation of mass and momentum to more advanced topics as well as practical items, such as techniques to set up numerical simulations and writing your own code. 
 
 I welcome comments and suggestions, which you can send through the [Feedback page](feedback).
@@ -54,4 +38,19 @@ Run `npx serve .` (Node.js users) or `python -m http.server 8000` (Python users)
 ## Docsify Documentation
 
 To learn more about using Docsify, visit https://docsify.js.org.
+
+
+
+
+
+
+
+tabs:start
+
+#### **English**
+Hello!
+#### **French**
+Bonjour!
+
+tabs:end
 
