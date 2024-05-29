@@ -35,4 +35,3 @@ Run `npx serve .` (Node.js users) or `python -m http.server 8000` (Python users)
 
 To learn more about using Docsify, visit https://docsify.js.org.
 
-<script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
