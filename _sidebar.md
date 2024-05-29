@@ -2,3 +2,4 @@
 - [What is CFD?](second-page)
 - [Feedback](feedback)
 - [Test page](testpage)
+- [Acknowledgements](acknowledgements)
