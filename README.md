@@ -9,13 +9,14 @@
 
 
 
-panels:start
+tabs:start
+
 #### **English**
 Hello!
 #### **French**
 Bonjour!
 
-panels:end
+tabs:end
 
 #### 56
 
