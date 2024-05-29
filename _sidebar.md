@@ -1,4 +1,4 @@
-- [Read Me](README)
-- [Example Second Page](second-page)
+- [Home](README)
+- [What is CFD?](second-page)
 - [Feedback](feedback)
 - [Test page](testpage)
