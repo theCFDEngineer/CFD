@@ -1,4 +1,4 @@
-- [Home](Home)
+- [Home](README)
 - [What is CFD?](what-is-cfd)
 - [Test page](testpage)
 - [Feedback](feedback)
