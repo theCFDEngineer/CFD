@@ -12,7 +12,6 @@ You may use the menu on the left to jump to a section containing topics that int
 
 I welcome comments and suggestions, which you can send through the [Feedback page](feedback).
 
-## Site Setup
 
 ### Static Webserver
 Upload these template files to any static web server. The file `.nojekyll` is only required if hosting the site on GitHub Pages and otherwise can be removed.
