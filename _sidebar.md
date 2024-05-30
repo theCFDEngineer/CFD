@@ -1,5 +1,5 @@
-- [Home](README)
+- [Home](Home)
 - [What is CFD?](second-page)
-- [Feedback](feedback)
 - [Test page](testpage)
+- [Feedback](feedback)
 - [Acknowledgements](acknowledgements)
