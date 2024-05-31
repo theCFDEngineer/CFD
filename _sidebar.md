@@ -2,5 +2,6 @@
 - [Introduction](Introduction)
 - [Test page](testpage)
 - [List of lists](list-of-lists)
+- [Glossary](_glossary)
 - [Feedback](feedback)
 - [Acknowledgements](acknowledgements)
