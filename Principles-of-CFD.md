@@ -10,7 +10,7 @@ Unless thermal exchange is relevant, conservation of energy can be disregarded.
 ## Requirements of CFD simulations
 ```mermaid
 graph LR
-    Physics --> CFD
-    Mathematics --> CFD
-    Numerical analysis --> CFD
+    a[Physics] --> d[CFD]
+    b[Mathematics] --> d[CFD]
+    c[Numerical analysis] --> d[CFD]
 ```
