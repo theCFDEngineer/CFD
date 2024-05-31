@@ -1,11 +1,11 @@
 # Notes
-> [!Definition]
+> [!Note]
 > A definition.
 
 > [!Tip]
 > A tip.
 
-> [!Important]
+> [!Warning]
 > Something important
 
 > [!Attention]
