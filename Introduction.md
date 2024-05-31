@@ -1,6 +1,8 @@
-# What is CFD?
+# The basics
+Before we delve into the details, we need to agree on a definition:
 
-Before we delve into the details, we need to agree on a definition: this is pookie
+## What is CFD?
+
 > [!Note]
 > <a name="what-is-cfd">CFD is the study of  fluid flow through numerical methods via computers.</a>
 
