@@ -8,9 +8,10 @@ The physics of a fluid flow are goverened by three fundamental principles:
 Unless thermal exchange is relevant, conservation of energy can be disregarded.
 
 ## Requirements of CFD simulations
+CFD sits at the intersection of three fields:
 ```mermaid
 graph LR
-    a[Physics] --> d[CFD]
-    b[Mathematics] --> d[CFD]
-    c[Numerical analysis] --> d[CFD]
+    A[Physics] --> D[CFD]
+    B[Mathematics] --> D[CFD]
+    C[Numerical analysis] --> D[CFD]
 ```
