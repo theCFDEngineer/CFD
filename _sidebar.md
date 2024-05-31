@@ -1,6 +1,6 @@
 - [Home](README)
 - [Introduction](Introduction)
-- [Test page](testpage)
+- [Principles of CFD](Principles-of-CFD)
 - [List of lists](list-of-lists)
 - [Glossary](_glossary)
 - [Feedback](feedback)
