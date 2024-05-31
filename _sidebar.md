@@ -1,6 +1,6 @@
 - [Home](README)
 - [Introduction](Introduction)
 - [Test page](testpage)
-- [List of lists](List-of-lists)
+- [List of lists](list-of-lists)
 - [Feedback](feedback)
 - [Acknowledgements](acknowledgements)

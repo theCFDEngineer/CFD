@@ -16,5 +16,5 @@ The image below shows the relationship between the different types of flow, star
 ![Fluid flow hierarchy, adapted from Terziev et al. (2020)](/images/hierarchy.png)
 
 ## Reference
-Terziev, M., Tezdogan, T. and Incecik, A., 2020. A posteriori error and uncertainty estimation in computational ship hydrodynamics. Ocean Engineering, 208, p.107434. DOI:[https://doi.org/10.1016/j.oceaneng.2020.107434]
+Terziev, M., Tezdogan, T. and Incecik, A., 2020. A posteriori error and uncertainty estimation in computational ship hydrodynamics. Ocean Engineering, 208, p.107434. DOI:https://doi.org/10.1016/j.oceaneng.2020.107434
 
