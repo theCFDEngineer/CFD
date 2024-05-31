@@ -10,6 +10,7 @@ Unless thermal exchange is relevant, conservation of energy can be disregarded.
 ## Requirements of CFD simulations
 ```mermaid
 graph LR
-    A <---> B
-    B <-->C
+    A <--> B
+    B <--> C
+    C <--> A
 ```
