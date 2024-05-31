@@ -20,6 +20,7 @@ Analytical methods can be very useful and provide an answer fast. However, most 
 #### **CFD/Numerical modelling**
 The main advantege of CFD modelling include the fact that we are not limited to scale or other physical properties. For example, hypersonic capsule re-entry can be modelled in CFD which would be challenging experimentally. However, the main disadvantage of CFD is that it cannot give us correct answers if we do not have *a priori* information about the flow, as will be discussed subsequently. That is, we must know what physics and their regimes are prevalent in the flow and target them specifically. Mesh design is an excellent example of this problem.
 Using CFD we can obtain a full description of the flow at any point we want. There are no experimental apparatus in the way so we can sample the flow with any resolution we want as long as our set up is accurate enough.
+<!-- tabs:end -->
 
 
 ## Hierarchy of fluid flow
