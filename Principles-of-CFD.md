@@ -31,11 +31,12 @@ a1[Pre-processing] --> a2[Processing/Solution] --> a3[Post-processing/analysis]
 ### Pre-processing
 This stage includes the following activities:
 - Geometry preparation and simplification if needed, definition of the computational.
-- Grid generation, that is, subdivision of the computational domain into control volumes.
+- Grid generation (subdivision of the computational domain into control volumes).
 - Definition of physics models (turbulent/laminar flow, chemical reactions, compressibility etc.).
 - Setting of physical properties (density, viscosity, thermal conductivity, etc).
 - Setting of boundary and initial conditions.
-The majority of time spent by a CFD analyst is likely concentrated on pre-processing.
+
+The majority of time spent by a CFD engineer is likely concentrated on pre-processing.
 ### Processing
 This stage represents the running of the simulation.
 ### Post-processing
