@@ -21,3 +21,14 @@ We require knowledge from fluid mechanics/dynamics and thermodynamics. CFD can a
 To solve the three [principles of CFD](#principles-of-cfd), we require algorithms and numerical analysis to obtain estimates of the numerical error etc.
 ### Computer science
 Software are written to run on PCs or clusters of High Performance Computers with CPU/GPU architecture. These require computer scientists to develop hardware and software to be exploited by CFD codes.
+
+## Phases of a CFD simulation
+CFD simulation workflows can be split into three parts:
+```mermaid
+flowchart 
+a1[Pre-processing] --> a2[Processing/Solution] --> a3[Post-processing/analysis]
+```
+### Pre-processing
+This stage includes the following activities:
+- Geometry preparation and simplification if needed.
+- Grid generation
