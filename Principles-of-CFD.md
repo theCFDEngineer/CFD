@@ -1,11 +1,11 @@
 # Principles of CFD
 
 The physics of a fluid flow are goverened by three fundamental principles:
- - Conservation of mass, $\frac{dm}{dt}=0$
- - Conservation of momentum, $\sum F=0$
+ - Conservation of mass
+ - Conservation of momentum
  - Conservation of energy
 
-Unless thermal exchange is relevant, conservation of energy can be disregarded.
+Unless thermal exchange is relevant, conservation of energy can be disregarded. This is the case in many engineering problems where heat transfer is minimal.
 
 ## Requirements of CFD simulations
 CFD sits at the intersection of three fields:
@@ -41,5 +41,3 @@ The majority of time spent by a CFD engineer is likely concentrated on pre-proce
 This stage represents the running of the simulation.
 ### Post-processing
 This stage involves the extraction and analysis of results.
-
-
