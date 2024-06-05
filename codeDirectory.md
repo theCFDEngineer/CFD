@@ -32,6 +32,6 @@ Ciao!
 ## Latex
 ## Inline $Latex$
 Some text $f=\frac{k}{u}$ some more text.
-## New line Latex: $$
+## New line Latex: use two $
 
-Some text$$f=\frac{k}{u}$$ Some more text.
+Some text $$f=\frac{k}{u}$$ Some more text.
